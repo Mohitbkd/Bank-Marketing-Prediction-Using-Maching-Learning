@@ -1,5 +1,5 @@
 # Bank-Marketing-Prediction-Using-Maching-Learning
-#Tasks to perform
+## Tasks to perform
 
 Read in the file and get basic information about the data, including numerical summaries.
 Describe the pdays column, make note of the mean, median and minimum values. Anything fishy in the values?

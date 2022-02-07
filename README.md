@@ -53,4 +53,5 @@ Compare the performance of the Random Forest and the logistic model –
 * Compare the feature importance from the different models – do they agree? Are the top features similar in both models?
 
 Solved by using
-![picture alt](https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F3%2F38%2FJupyter_logo.svg%2F1200px-Jupyter_logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FProject_Jupyter&tbnid=_bXdErk3QufadM&vet=12ahUKEwjq7bWxyu31AhU-_zgGHXYKAmEQMygAegUIARDSAQ..i&docid=pGh5LKRAZ1gfXM&w=1200&h=1391&q=jupyter%20notebook&hl=en&ved=2ahUKEwjq7bWxyu31AhU-_zgGHXYKAmEQMygAegUIARDSAQ "jupyter notebook")
+![download](https://user-images.githubusercontent.com/55624437/152790662-a4edd3d3-a81a-4f65-8600-5198afb4d668.png)
+

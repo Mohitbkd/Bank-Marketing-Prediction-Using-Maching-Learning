@@ -53,5 +53,6 @@ Compare the performance of the Random Forest and the logistic model –
 * Compare the feature importance from the different models – do they agree? Are the top features similar in both models?
 
 Solved by using
+
 ![download](https://user-images.githubusercontent.com/55624437/152790662-a4edd3d3-a81a-4f65-8600-5198afb4d668.png)
 

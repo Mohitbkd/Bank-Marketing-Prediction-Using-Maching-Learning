@@ -47,7 +47,8 @@ Which metric did you choose and why?
 Which model has better performance on the test set?
 Compare the feature importance from the different models – do they agree? Are the top features similar in both models?
 Solved by using
-codeSTACKr | Tableau
+![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33382f4a7570797465725f6c6f676f2e7376672f3132303070782d4a7570797465725f6c6f676f2e7376672e706e67](https://user-images.githubusercontent.com/55624437/152786244-9de22f40-1484-4299-be1e-36bc7ab0f3a9.png)
+
 
 With help of some lib. like
 
